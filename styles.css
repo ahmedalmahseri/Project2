@@ -1,0 +1,11 @@
+
+body {
+    font-family: 'Times New Roman'; /* font */
+    background-image: url('https://i.pinimg.com/originals/71/b7/4d/71b74df7f21f86744c98271e68dd1c68.jpg'); /* Background image */
+    background-size: cover; /* this covers the background with the same image*/
+   
+    display: flex; /* this makes the body of the code into a container and allows the few following code to work*/
+    justify-content: center; /* this alligns center horizontally*/
+    align-items: center; /* this alligns center vertically*/
+    height: 90vh; /* this is the height of the body element*/
+}

@@ -2,7 +2,7 @@ const rootDiv = document.getElementById('root');
 
 function renderSignUp() {
     rootDiv.innerHTML = `
-        <h1>Sign Up</h1>
+        <h1>Welcome to ChatterBox, Sign Up Below!</h1>
         <form id="signupForm">
             <label for="name">Name:</label>
             <input type="text" id="name" placeholder="Enter your name"><br>
